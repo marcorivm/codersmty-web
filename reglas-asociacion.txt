@@ -1,0 +1,23 @@
+Coders Monterrey existe con la finalidad de crear comunidad y de
+hacer que los eventos de los grupos alcancen la mayor
+visibilidad posible.
+
+Por esta razon, para asociar tu Grupo de Usuarios a Coders
+Monterrey hay que cumplir con los siguientes compromisos:
+
+* al dar la bienvenida a la reunion, recordarle a los asitentes
+  que tu grupo es parte de Coders Monterrey.
+
+  Si no sabes que decir, aqui te damos una idea:
+
+    "Bienvenidos al Meetup del Grupo Tal, blah blah... les
+     recordamos que Grupo Tal es parte de Coders Monterrey,
+     una asociacion de otros grupos como este. Pueden ver
+     los otros grupos y sus horarios en codersmty.org"
+  
+* incluir un link/logo a http://codersmty.org en tu sitio oficial
+
+* difundir, retuitear o compartir eventos organizados por otros
+  grupos pertenecientes a Coders Monterrey (esto punto es mas
+  un gesto de buena voluntad y se puede seguir en la medida
+  de sus posibilidades).
